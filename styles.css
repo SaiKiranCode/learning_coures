@@ -1,0 +1,47 @@
+h1
+{
+  color:#035aa6;
+  text-align: center;
+}
+body
+{
+  background-color: #40bad5;
+}
+.Button
+{
+
+  margin-left: 25%;
+}
+.Buttonshape
+{
+  background-color: #a0ffe6;
+  border-radius: 30%;
+
+   padding: 10px 32px;
+
+}
+.Buttonshape:hover
+{
+  background-color:#43d8c9;
+
+}
+.contents
+{
+  width: 80%;
+  padding-left: 10%;
+}
+.logo
+{
+  border-radius: 100%;
+
+}
+#order
+{
+  font-size: 30px;
+  font-weight: 400;
+  color:#035aa6;
+}
+.ordersummary
+{
+  text-align: center;
+}
